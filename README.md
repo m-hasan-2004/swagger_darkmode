@@ -1,5 +1,7 @@
 # Swagger UI Dark Theme for Django REST Framework
 
+<img width="1872" height="734" alt="image" src="https://github.com/user-attachments/assets/71f02a57-f2bf-46fc-ad28-fd9568edd9c9" />
+
 A modern, dark-themed Swagger UI template for Django projects using `drf-spectacular`. Features a built-in auth bar, profile panel, dark/light theme toggle, and clean overrides for every Swagger UI element.
 
 ## Features
